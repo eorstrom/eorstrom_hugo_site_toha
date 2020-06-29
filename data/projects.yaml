@@ -1,0 +1,38 @@
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Volunteer
+    filter: "volunteer"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  - name: Nashville Film Festival
+    logo: images/projects/NFF_Header_Old.png
+    role: Project / Product Manager, Web Developer, UX / UI Designer
+    timeline: "November 2019 - Present"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "https://nashvillefilmfestival.org/"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Redesign of the NFF WordPress website.
+    tags: ["professional", "volunteer", "WordPress"]
+
+  - name: Junior Developer Toolbox
+    logo: images/projects/Junior_Developer_Toolbox_New_Logo.png
+    role: Cohost, Content Creator, Producer, Social Media Manager
+    timeline: "September 2017 - April 2019"
+    # url: "https://juniordevelopertoolbox.com"
+    summary: Junior Developer Toolbox was a podcast about building, maintaining, and surviving a career in software engineering. We provided real talk from the trenches about everyday life as a junior developer.
+    tags: ["hobby", "podcast"]
+
+  - name: Nashville Software School Cohort 12 Class Website
+    logo: images/projects/NSS_Cohort_12_Website_screenshot.png
+    role: Project Coordinator, Web Developer
+    timeline: "April 2016 - June 2016"
+    repo: https://github.com/nss-day-cohort-12/nss12-class-website
+    url: "https://nss-day-cohort-12.github.io/nss12-class-website/"
+    summary: "Class website for NSS cohort 12 to showcase school work to potential employers before Demo Day. </br> Technologies used: HTML5, CSS3, JavaScript, jQuery, Jekyll"
+    tags: ["professional","volunteer"]
