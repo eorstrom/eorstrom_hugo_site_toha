@@ -1,3 +1,12 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
 # filter buttons
 buttons:
   - name: All
@@ -25,7 +34,7 @@ projects:
     role: Cohost, Content Creator, Producer, Social Media Manager
     timeline: "September 2017 - April 2019"
     # url: "https://juniordevelopertoolbox.com"
-    summary: Junior Developer Toolbox was a podcast about building, maintaining, and surviving a career in software engineering. We provided real talk from the trenches about everyday life as a junior developer.
+    summary: Junior Developer Toolbox was a podcast about building, maintaining, and surviving a career in software engineering. We provided real talk from the trenches about everyday life as a junior developer. My friend, Dave Harned, and I were cohosts.
     tags: ["hobby", "podcast"]
 
   - name: Nashville Software School Cohort 12 Class Website
