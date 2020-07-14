@@ -2,12 +2,13 @@
 title: "About"
 date: 2020-06-26T18:11:50-05:00
 draft: false
-# hero: /assets/images/background/sunrise.jpg
 ---
 
+<div class="about-page-top-div">
 {{< crystal-knows-profile >}}
 
 Hi, I'm Erin! So, what's my story?
+</div>
 
 ### Professional Career ###
 
@@ -75,3 +76,5 @@ helping others find their way and break into the software development field.
 To be filled in later. 😊
 
 ### Want to Connect? <a href="/contact/">Contact Me</a> ###
+
+{{< x-ai-calendar >}}
