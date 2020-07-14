@@ -5,7 +5,7 @@ draft: false
 hero: /assets/images/background/sunrise.jpg
 author:
     name: Erin Orstrom
-    image: /static/images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg
+    image: /images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg
 ---
 
 There won't be a new episode of Junior Developer Toolbox this week. But fret not!
@@ -13,8 +13,7 @@ Dave and I are taking a break to recharge and plan upcoming show content.
 Dave is soaking up some rays on a cruise with his family (I'm jealous), but we wanted to make sure our listeners still received some great content this week.
 So I wrote this blog post to accompany the series on software bootcamps we've been working on recently.
 
-Over the last few episodes,
-we've talked about factors to consider when determining whether a software development bootcamp is the best choice for your situation (Episode 34),
+Over the last few episodes, we've talked about factors to consider when determining whether a software development bootcamp is the best choice for your situation (Episode 34),
 how to stay encouraged through the "pit of despair" during the program (Episode 35),
 what the job search is like after completing a bootcamp program (Episode 36), and everything in between.
 I want to share my decision making process and also mention some things I wish I had known, or planned better for before enrolling in Nashville Software School,
