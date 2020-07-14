@@ -1,3 +1,10 @@
+# section information
+section:
+  name: Summary
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
 # your designation
 designation: Software Developer turned Product Owner
 # your company information
@@ -32,18 +39,18 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/eeyorestrom"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/eeyorestrom/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
-# currently supported color: blue, yellow, pink, green
+# currently supported colors: blue, yellow, pink, green
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 80
   color: blue
 - name: Team Work
   percentage: 90
@@ -51,9 +58,9 @@ softSkills:
 - name: Communication
   percentage: 85
   color: pink
-- name: Hard Working
+- name: Driven
   percentage: 85
   color: green
-- name: Product Stuff
-  percentage: 50
+- name: Product
+  percentage: 60
   color: blue

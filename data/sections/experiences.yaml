@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Career Experience
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+  - designation: Software Engineer I / Product Owner
+    company:
+      name: naviHealth
+      url: "https://www.navihealth.com"
+      location: Brentwood, TN
+      # company overview
+      overview: <i>naviHealth's high-touch, proven care model fully supports patients from pre-acute through to the home. With naviHealth, patients can enjoy more days at home, and healthcare providers and health plans can significantly reduce costs specific to unnecessary care and readmissions. We do more than transition patients.</i>
+    start: April 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases and cluster's resource definition.
+      - My another responsibilities.
+      - My more responsibilities.
+
+  - designation: Associate Software Engineer / Technical Business Analyst
+    company:
+      name: naviHealth
+      url: "https://www.navihealth.com"
+      location: Brentwood, TN
+      # company overview
+      overview: <i>naviHealth's high-touch, proven care model fully supports patients from pre-acute through to the home. With naviHealth, patients can enjoy more days at home, and healthcare providers and health plans can significantly reduce costs specific to unnecessary care and readmissions. We do more than transition patients.</i>
+    start: January 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: April 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases and cluster's resource definition.
+      - My another responsibilities.
+      - My more responsibilities.
+
+  - designation: Software Engineer (Subcontractor)
+    company:
+      name: InfoWorks
+      url: "https://www.infoworks-tn.com/"
+      location: Nashville, TN
+      overview: InfoWorks is a software agency that provides analytics, management, and technology solutions to its clients.
+    start: June 2017
+    end: October 2017
+    responsibilities:
+      - Write lots of example codes.
+      - Read lots of examples.
+      - See lots of example videos.
+
+  - designation: Complex Application Developer (Contractor)
+    company:
+      name: Strategic Technology Solutions, State of TN
+      url: "https://www.tn.gov/finance/strategic-technology-solutions.html"
+      location: Nashville, TN
+      overview: <i>In the early 1970s by executive order, state computer functions were centralized into one division in the Department of Finance and Administration. Since then, Strategic Technology Solutions (formerly the Office for Information Resources), has served as the state's central information processing organization and as a computer service bureau to state departments.</i>
+    start: August 2016
+    end: April 2017
+    responsibilities:
+      - Count lost of interns.
+      - Count more interns.
+      - Count myself as intern.
