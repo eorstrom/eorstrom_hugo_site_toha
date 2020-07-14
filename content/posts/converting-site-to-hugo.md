@@ -2,7 +2,7 @@
 title: "How I Converted My Existing Website to Use Hugo"
 date: 2020-05-14T11:30:00-05:00
 draft: false
-hero: /assets/images/background/sunrise.jpg
+hero: /images/blog-posts/hugo-static-site-generator-banner.jpg
 author:
     name: Erin Orstrom
     image: /images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg

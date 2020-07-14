@@ -2,7 +2,7 @@
 title: "To Bootcamp or Not to Bootcamp"
 date: 2019-03-12T22:09:00-05:00
 draft: false
-hero: /assets/images/background/sunrise.jpg
+hero: /images/blog-posts/NSS_Cohort_12_Website_screenshot.png
 author:
     name: Erin Orstrom
     image: /images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg
