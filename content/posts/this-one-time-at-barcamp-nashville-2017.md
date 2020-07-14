@@ -2,7 +2,7 @@
 title: "This One Time at Barcamp Nashville 2017"
 date: 2017-10-04T20:31:00-05:00 
 draft: false
-hero: /images/BarCamp_JDT_and_CDP.jpg
+hero: /images/blog-posts/BarCamp_JDT_and_CDP.jpg
 author:
     name: Erin Orstrom
     image: /images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg
@@ -37,3 +37,5 @@ There are other interviews from BarCamp to listen to as well.
 As always, we hope you find the content insightful, beneficial, and entertaining. Feel free to leave us feedback, and until next time, happy learning!
 
 **This blog post was originally posted on JuniorDeveloperToolbox.com on Oct. 4, 2017. Authored by Erin Orstrom.**
+
+*Hero image from BarCamp Nashville 2017.*
