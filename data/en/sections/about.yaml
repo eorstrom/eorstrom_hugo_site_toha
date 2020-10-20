@@ -13,10 +13,10 @@ company:
   url: "https://www.navihealth.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/2020_Erin_Orstrom_Resume.pdf"
+resume: "files/2020.09.28_Erin_Orstrom_Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I have 4+ years of experience as a software developer and have recently discovered an interest in Product work. I believe my technical background and communication skills make me an effective liaison between the technical folks (developers, etc.) and the business (users, stakeholders, etc.). I enjoy working with people to understand their goals and pain points and work together to implement solutions to build a better product that is intuitive and meets their needs.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -29,9 +29,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/eorstrom"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -58,7 +58,7 @@ softSkills:
 - name: Communication
   percentage: 85
   color: pink
-- name: Driven
+- name: Critical Thinking
   percentage: 85
   color: green
 - name: Product

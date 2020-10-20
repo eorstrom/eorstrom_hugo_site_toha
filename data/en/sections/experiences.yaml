@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Career Journey
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: naviHealth
+    url: "https://www.navihealth.com"
+    location: Brentwood, TN
+    # company overview
+    overview: <i>naviHealth's high-touch, proven care model fully supports patients from pre-acute through to the home. With naviHealth, patients can enjoy more days at home, and healthcare providers and health plans can significantly reduce costs specific to unnecessary care and readmissions. We do more than transition patients. -<a href="https://www.navihealth.com" target="blank">naviHealth website</a></i>
+  positions:
+  - designation: Product Owner, Integrations
+    start: August 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - I recently transitioned to the integrations team as their new Product Owner. I am getting up to speed on their projects, working to ensure items that will provide value are delivered in a timely manner. I work with stakeholders to understand and define requirements and create user and technical stories to refine with the team.
+    - Our Product department is also starting to use JIRA Portfolio for each team's Product Owner to create and maintain a team product road map that aligns with the overall Product road map, but is also intended to be a planning tool for us to be able to work on small/medium sized enhancements as we have bandwidth.
+
+  - designation: Software Engineer I / Product Owner
+    start: April 2019
+    end: August 2020
+    responsibilities:
+    - After our team's Product Owner took another internal position, I took over her Product Owner responsibilities of organizing and prioritizing the team's backlog, gathering and defining requirements for bugs and small enhancements, and working with users and stakeholders to understand expected behavior.
+    - I continued to use my software engineer skills to investigate code in BitBucket, run SQL queries to locate weird data, and search in New Relic and Kibana for error messages.
+
+  - designation: Associate Software Engineer / Technical Business Analyst
+    start: January 2018
+    end: April 2019
+    responsibilities:
+    - I began this role as a hybrid, part software engineer (70%), part Business Analyst (30%) on the tier 3 Application Support engineering team.
+    - I fixed software bugs, updated documentation, and otherwise helped maintained code, in addition to communicating with users and business contacts to understand expected behavior. 
+
+- company:
+    name: InfoWorks
+    url: "https://www.infoworks-tn.com/"
+    location: Nashville, TN
+    overview: InfoWorks is a software agency that provides analytics, management, and technology solutions to its clients.
+  positions:
+    - designation: Software Engineer (Subcontractor)
+      start: June 2017
+      end: October 2017
+      responsibilities:
+      - During my time at Infoworks, I worked on a tax document generation application. It's purpose was to replace a manual process of copying and pasting sections from 100+ Word documents based on the needs of the clients. This application generated the necessary sections based on questions/fields filled out in the application, and then the generated document could be sent electronically using DocuSign for signatures.
+      - I averaged 3-5 features/bugs per each 4 week sprint.
+
+- company:
+    name: Strategic Technology Solutions, State of TN
+    url: "https://www.tn.gov/finance/strategic-technology-solutions.html"
+    location: Nashville, TN
+    overview: <i>In the early 1970s by executive order, state computer functions were centralized into one division in the Department of Finance and Administration. Since then, Strategic Technology Solutions (formerly the Office for Information Resources), has served as the state's central information processing organization and as a computer service bureau to state departments. -<a href='https://www.tn.gov/finance/strategic-technology-solutions.html' target="_blank">STS website</a></i>
+  positions:
+    - designation: Complex Application Developer
+      start: August 2016
+      end: April 2017
+      responsibilities:
+      - I was part of the team responsible for transitioning 80+ applications across 52 departments from the 3rd party vendor that developed them for in-house maintenance and future development as a cost saving measure. The entire 11 person development team was brand new, and we successfully transitioned the applications over a period of 8 months by the March 31st deadline.
+      - I led efforts to build relationships and work with each department to understand their current needs for each app and plans for future improvements.

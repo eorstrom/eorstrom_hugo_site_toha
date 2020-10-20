@@ -1,0 +1,15 @@
+# some information about you
+name: "Erin Orstrom"
+nickname: "Erin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm"
+image: "images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg"
+# give your some contact information. they will be used in the footer
+# contactInfo:
+#   email: ""
+#   phone: ""
+# some summary about what you do
+summary:
+    - Technology Professional 👩🏼‍💻. Product Owner 📝. Software Developer 💻.
+    - World Traveler ✈️. Video Gamer 🎮.
+    - Avid Reader 📖. Life-long Learner 💡.
