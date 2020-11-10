@@ -2,7 +2,7 @@
 title: "Career Identity Crisis"
 date: 2020-11-06T11:48:53-06:00
 publishedDate: 2020-11-09T21:00:00-06:00
-draft: true
+draft: false
 hero: /images/blog-posts/mimi-thian-U7lWyAV-aM8-unsplash.jpg
 author:
     name: Erin Orstrom
