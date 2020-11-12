@@ -1,7 +1,7 @@
 ---
 title: "Career Identity Crisis"
 date: 2020-11-06T11:48:53-06:00
-publishedDate: 2020-11-09T21:00:00-06:00
+publishDate: 2020-11-09T21:00:00-06:00
 draft: false
 hero: /images/blog-posts/mimi-thian-U7lWyAV-aM8-unsplash.jpg
 author:
@@ -9,7 +9,7 @@ author:
     image: /images/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg
 ---
 
-## Mid-Career Crisis? ##
+## Career Transition ##
 
 At the beginning of August this year, I made the transition to officially become a Product Owner at my current company. This led me to think about the software developer skills that I had gained and used for the previous 3-4 years. Just because I'm not performing software developer related tasks on a daily basis, and just because this isn't my full-time role at this point in time, does that mean I'm not a software developer any longer?
 
@@ -31,6 +31,6 @@ As another example, I have picked up painting as a hobby in the past few months 
 
 ## Summary ##
 
-If there's anything I've learned from this career transition, or what I'm referring to as my "career identity crisis", it's that my position doesn't define me. You can have a variety of skills and use them to your advantage no matter what position you serve in. And the job you perform doesn't have to tie into your identity, or pigeon hole you into a specified career path or industry. So I'm encouraging everyone who reads this, as much as encouraging myself, to asses the skills you have (or want to develop) whether you're at the beginning of your career, experiencing a mid-career crisis like me, or well seasoned into your career, and apply those skills to whatever interests you.
+If there's anything I've learned from this career transition, or what I'm referring to as my "career identity crisis", it's that my position doesn't define me. You can have a variety of skills and use them to your advantage no matter what position you serve in. And the job you perform doesn't have to tie into your identity, or pigeon hole you into a specified career path or industry. So I'm encouraging everyone who reads this, as much as encouraging myself, to assess the skills you have (or want to develop) whether you're at the beginning of your career, experiencing a mid-career crisis like me, or well seasoned into your career, and apply those skills to whatever interests you.
 
 *Hero photo by <a href="https://unsplash.com/@mimithian" target="_blank">Mimi Thian</a> on Unsplash.*
